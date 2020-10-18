@@ -1,0 +1,16 @@
+>> bar x and y position (2 integers)
+300
+1300
+>> bar max x and y velocity (2 integers)
+22
+22
+>> bar rotation and rotation speed (2 integers)
+0
+4
+>> bar length (each side) and thickness (2 integers)
+80
+20
+>> how many collision test points (each side), and collision back push duration (2 values)
+5
+10
+>> nothing
